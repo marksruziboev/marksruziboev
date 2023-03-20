@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![maruzibo's 42 stats](https://badge42.vercel.app/api/v2/clfgo1pwl006808mjhta9j8nm/stats?cursusId=21&coalitionId=251)](https://github.com/JaeSeoKim/badge42)
 <!--
 **marksruziboev/marksruziboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
